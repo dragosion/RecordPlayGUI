@@ -18,4 +18,4 @@ Only goes to click poins and does click and if down and up positions are differe
 Does straight lines only.
 
 Update 2022-02-16: The files are back up on the repo since it seems like some people actually waht this.
-Read more: https://diy.rednumberone.com/automate-mouse-clicks-on-pc-record-and-playback/
+Read more: https://www.ionhowto.com/automate-mouse-clicks-on-pc-record-and-playback/
