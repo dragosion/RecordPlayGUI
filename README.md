@@ -19,3 +19,6 @@ Does straight lines only.
 
 Update 2022-02-16: The files are back up on the repo since it seems like some people actually waht this.
 Read more: https://www.ionhowto.com/automate-mouse-clicks-on-pc-record-and-playback/
+
+Update 2022-10-10 both scripts updated to capture and play mouse events including the delay between clicks.
+Hope it works and PLEASE CHANGE mhd variable with your own click data captured by the record script.
